@@ -11,3 +11,16 @@
   align-items: center;
   padding: 0 30px;
 }
+.main {
+  display: flex;
+  flex-direction: column;
+  padding: 26px 36px;
+}
+.group-picture {
+  width: 70%;
+  align-self: center;
+}
+.main h1 {
+  font-size: 36px;
+  margin: 32px 0 16px 0;
+}
